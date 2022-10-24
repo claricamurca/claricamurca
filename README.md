@@ -1,4 +1,4 @@
-  <img align="right" alt="Clari-pic" height="170" style="border-radius:50px;" 
+  <img align="right" alt="Clari-pic" height="150" style="border-radius:50px;" 
 src="https://cdn.discordapp.com/attachments/863532991518605363/1034108467021103185/picasion.com_ef81f67978bd2984d656bd5393e0d4e1.gif">
 
 
@@ -11,8 +11,8 @@ src="https://cdn.discordapp.com/attachments/863532991518605363/10341084670211031
 
 <div align="center">
   <a href="https://github.com/claricamurca">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=claricamurca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img widthht="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claricamurca&layout=compact&langs_count=7&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=claricamurca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img widtht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claricamurca&layout=compact&langs_count=7&theme=radical"/>
   <img align="right" alt="Clari-pic" height="200" style="border-radius:50px;" 
 src="https://cdn.discordapp.com/attachments/863532991518605363/1034108467021103185/picasion.com_ef81f67978bd2984d656bd5393e0d4e1.gif">
 </div>
@@ -30,4 +30,4 @@ src="https://cdn.discordapp.com/attachments/863532991518605363/10341084670211031
 [<img src="https://raw.githubusercontent.com/appicons/Whatsapp/master/icons/whatsapp_194x194.png" alt="Whatsapp Logo" width="50">](https://api.whatsapp.com/send?phone=5599991812607&text=Olá%2C%20Clarissa%20Camurça.%20Tudo%20bem%3F)
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="50">](https://www.linkedin.com/in/clarissa-camur%C3%A7a-886b46251/)
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="50">](mailto:clarissadascamurca@gmail.com)
-[<img src="https://cdn.discordapp.com/attachments/1034122331527860238/1034124317291724930/GitHub-Mark-Light-64px.png" alt="Github Logo" height="50">]
+[<img src="https://cdn.discordapp.com/attachments/1034122331527860238/1034124317291724930/GitHub-Mark-Light-64px.png" alt="Github Logo" height="50">](https://github.com/claricamurca)
