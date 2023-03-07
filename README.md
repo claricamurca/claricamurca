@@ -11,10 +11,10 @@ src="https://cdn.discordapp.com/attachments/863532991518605363/10341084670211031
 
 <div align="center">
   <a href="https://github.com/claricamurca">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=claricamurca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=claricamurca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img widtht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claricamurca&layout=compact&langs_count=7&theme=radical"/>
   <img align="right" alt="Clari-pic" height="200" style="border-radius:50px;" 
-src="https://cdn.discordapp.com/attachments/863532991518605363/1034108467021103185/picasion.com_ef81f67978bd2984d656bd5393e0d4e1.gif">
+
 </div>
 
 ## Technology <img alt="GIF" src="https://cdn.discordapp.com/attachments/1034122331527860238/1034136653838692403/giphy_1.gif" width="36px">
