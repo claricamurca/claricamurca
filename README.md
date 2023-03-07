@@ -1,5 +1,4 @@
-  <img align="right" alt="Clari-pic" height="150" style="border-radius:50px;" 
-src="https://cdn.discordapp.com/attachments/863532991518605363/1034108467021103185/picasion.com_ef81f67978bd2984d656bd5393e0d4e1.gif">
+
 
 
 ## Hello, World! I'm Clarissa Camurça <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> 
