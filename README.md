@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/claricamurca">
-  <img width="50%" height="212px" src="https://github-readme-stats.vercel.app/api?username=claricamurca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img widtht="40%" height="212px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claricamurca&layout=compact&langs_count=7&theme=radical"/>
+  <img width="200px" height="212px" src="https://github-readme-stats.vercel.app/api?username=claricamurca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img widtht="200px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claricamurca&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 
